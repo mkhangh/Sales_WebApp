@@ -1,6 +1,7 @@
 # Chocolate Sales Analysis Project
 
 ##Project Overview
+
 The Chocolate Sales Analysis project aims to evaluate overall sales performance, customer purchasing behaviour, and product profitability using transactional retail data. The analysis focuses on identifying key business trends across different stores, customer segments, and product categories to support strategic decision-making. 
 
 The solution includes:
